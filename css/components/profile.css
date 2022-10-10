@@ -1,0 +1,26 @@
+@import url(./avatar.css);
+
+.profile{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.profile-info {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content:space-between;
+}
+.profile-info h2 {
+  margin: 0px;
+  font-size: 15px;
+  color: gray;
+}
+
+.profile-info a {
+  margin: 10px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #caaa91;
+}

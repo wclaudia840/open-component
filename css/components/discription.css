@@ -1,0 +1,10 @@
+.discription {
+  text-align: center;
+  color: gray;
+  margin-bottom: 40px;
+  font-size: 13px;
+}
+
+.discription p{
+  margin: 6px;
+}

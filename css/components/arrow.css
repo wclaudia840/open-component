@@ -1,0 +1,15 @@
+.arrow {
+  color:#caaa91;
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+}
+
+.arrow i {
+  font-size: 12px;
+  margin: 0px 8px;
+}
+
+.arrow .fa-circle {
+  font-size: 8px;
+}
